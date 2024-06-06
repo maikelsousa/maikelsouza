@@ -1,0 +1,48 @@
+.span{
+  display: flex;
+
+ 
+.section1 {
+
+    img {
+      scale: 0.9;
+      border-radius: 10px;
+      border: solid  ;
+      }
+  
+
+.circles{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-right: -15px;
+  
+}
+  .minicards {
+  
+    height: fit-content;
+   
+    
+    img {
+      max-height: 230px;
+      border-radius: 100%;
+      border: solid  ;
+      }
+
+  }
+
+}
+.section2 {
+  img {
+    scale: 0.9;
+
+    border-radius: 10px;
+    border: solid  ;
+    }
+
+ 
+}
+
+   
+}
+
